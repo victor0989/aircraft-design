@@ -1,0 +1,17 @@
+The Aircraft library is a versatile Modelica library for modeling and simulating aircraft dynamics
+applications. It is structured into a number of sublibraries, that contain models for describing the
+aerodynamics, atmosphere aerodynamic impact on aircraft, bodies, engine models, coordinate
+transformation models. There are 50 component classes for modeling and simulating an aircraft in various configurations.
+
+Aerodynamics Aerodynamic models
+Atmosphere Aerodynamic impact on aircraft
+Bodies Aircraft bodies without aerodynamic influence
+Examples Example models
+Functions Common functions
+Icons Icons specific for this package
+Interfaces Connector interfaces
+Propulsion Engine models
+Test Test models to verify their behavior 
+Transformations Transformation models for frames
+Types Types specific for the main package
+Utilities Utility components used for aircrafts 
