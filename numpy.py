@@ -27,3 +27,6 @@ concept = ca.AircraftConcept(designbrief, designdefinition, designperformance, a
 
 concept.propulsionsensitivity_monothetic(wingloading_pa=wingloadinglist_pa, y_var='p_hp', x_var='s_m2',
                                      customlabels=customlabelling)
+#OUTPUT
+ISA-10C density at 38000 feet (geopotential): 0.348049478999 kg/m^3
+ISA-10C speed of sound at 38000 feet (geopotential): 288.1792251702055 m/s
