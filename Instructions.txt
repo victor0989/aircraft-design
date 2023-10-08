@@ -14,5 +14,4 @@ Propulsion Engine models
 Test Test models to verify their behavior 
 Transformations Transformation models for frames
 Types Types specific for the main package
-Utilities Utility components used for aircrafts 
-Energy cannot be created or destroyed, but it can be transferred from one location to another and converted to and from other forms of energy.
+Utilities Utility components used for aircrafts
