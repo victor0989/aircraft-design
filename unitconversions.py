@@ -29,3 +29,9 @@ print('T/W:               ', twratio)
 print('Only feasible T/Ws:', feasibletw)
 print('CL required:       ', clrequired)
 print('CLmax clean:       ', designperformance['CLmaxclean'])
+
+#OUTPUT
+T/W:                [ 0.19920641  0.21420513  0.23243016]
+Only feasible T/Ws: [ 0.19920641  0.21420513         nan]
+CL required:        [ 1.06552292  1.2786275   1.49173209]
+CLmax clean:        1.45
