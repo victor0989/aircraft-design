@@ -1,1 +1,7 @@
-
+#INSTRUCTIONS
+#Aircraft design -stanford labs builtings
+#scikit aero scripts
+#robotic sensors in c++ for airplanes
+#modern-robotics draws and explanations for github
+#Project air-robots
+#Electric motors in python for airplanes with higher order dimensions
