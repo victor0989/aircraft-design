@@ -15,3 +15,6 @@ Test Test models to verify their behavior
 Transformations Transformation models for frames
 Types Types specific for the main package
 Utilities Utility components used for aircrafts
+#coger piezas de codigo de modern robotics y meterlas con sus formulas y con su codigo
+#Hay una pagina de modern robotics en github de la que se puede obtener material
+#Disenos de aviones y sensores de robots
