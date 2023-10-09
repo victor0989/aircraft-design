@@ -20,6 +20,4 @@ Here is the link to the pilars of the aircraft design
 https://docs.google.com/document/d/e/2PACX-1vSgxTrKVQ6XgCj7APpK1WIgKwNp0M1iwACRvFcrGD0u28v9_QC1PK7yL22RhdODZropj4tWu0jHWlF3/pub
 https://docs.google.com/document/d/1-g8_XLe1DdFrw1F6onDwvmquZAFJ5zbMfzO-XPj5J-8/edit?usp=sharing
 -
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSgxTrKVQ6XgCj7APpK1WIgKwNp0M1iwACRvFcrGD0u28v9_QC1PK7yL22RhdODZropj4tWu0jHWlF3/pub?embedded=true"></iframe>
--
 
